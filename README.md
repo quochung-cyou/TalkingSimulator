@@ -3,13 +3,11 @@
 ![Screenshot 1](https://i.imgur.com/vj8sKV6.png)
 
 
-A talking simulator game written in C++ with SFML Lib. 
+Looking for a one-of-a-kind gaming experience? With TalkingSimulator, you can immerse yourself in a unique story-based platform game, where you have to win the heart of a girl using your knowledge. Answer quizzes in course dsa, math, and english to gain stats and become the best version of yourself. With 9 different endings you'll always be looking forward to new surprises!
 
-Main game mechanic is player going around, talking with npc and do question (Discrete Math, Data Structure and Algorithm, Politics, History, ...)
-Answering question will give you point in stats, and your stats with affect the game ending.
-
-
-Currently the game have up to 9 Ending!
+Won:
+- 3rd Prize ProGameCup
+- Most Meaningful Game ProGameCup
 
 
 # Project Structure
